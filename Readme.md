@@ -12,7 +12,8 @@ A dynamic website that showcases new astronomy topics every day, providing fasci
 
 ## Setup
 1. Clone the repository
-2. 
+2. Install required packages: pip install streamlit, requests
+3. Run the application: streamlit run main.py
 
 ## Contributing
 Feel free to contribute by submitting pull requests or opening issues.
